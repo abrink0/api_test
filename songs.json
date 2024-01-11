@@ -1,18 +1,30 @@
-{
-	"name": "readme.md",
-	"path": "readme.md",
-	"sha": "7e7d30e0c8685fa362c25635836b258edfb31e1f",
-	"size": 152,
-	"url": "https://api.github.com/repos/abrink0/t_songbook/contents/readme.md?ref=master",
-	"html_url": "https://github.com/abrink0/t_songbook/blob/master/readme.md",
-	"git_url": "https://api.github.com/repos/abrink0/t_songbook/git/blobs/7e7d30e0c8685fa362c25635836b258edfb31e1f",
-	"download_url": "https://raw.githubusercontent.com/abrink0/t_songbook/master/readme.md?token=A7LGTM7B4KGMUO4WCTNG2BLFTXJKM",
-	"type": "file",
-	"content": "IyBUYW1hcmFjayBzb25nYm9vayBhbmQgcGRmIGdlbmVyYXRvcgoKdXNlIGNy\nZWF0ZV9wZGYucGhwIGZyb20gY29tbWFuZGxpbmUgb3IgdmlhIGh0dHAgcmVx\ndWVzdCB0byBtYWtlIHBkZnMuIFNvbmdib29rIGNvbnRlbnRzIGFyZSBkZWZp\nbmVkIGluIHNvbmdzLmpzb24=\n",
-	"encoding": "base64",
-	"_links": {
-		"self": "https://api.github.com/repos/abrink0/t_songbook/contents/readme.md?ref=master",
-		"git": "https://api.github.com/repos/abrink0/t_songbook/git/blobs/7e7d30e0c8685fa362c25635836b258edfb31e1f",
-		"html": "https://github.com/abrink0/t_songbook/blob/master/readme.md"
-	}
-}
+[
+    {
+        "index": "0",
+        "title": "Love the Lord",
+        "bible_reference": "Deut. 6:5, Mark 12:30, Luke 10:27",
+        "alternate_songbook": "",
+        "author": "Mona Bagasao Crane",
+        "chorded_song": " G                                    Em\r\nLove the Lord Your God with all your heart\r\n                                C\r\nAnd all your soul and all your mind\r\n                D\r\nand love all mankind,as you would love yourself, and\r\n\r\n\r\nG                     Em                   C\r\nL-o-v-e the Lord your G-o-d with all your heart\r\n              D\r\nand all your soul and mind and love all mankind.\r\n\r\n\r\nG                            Em\r\nWe've got Christian lives to live\r\n                          C\r\nWe've got Jesus' Love to give\r\n                     D\r\nWe've got nothing to hide because in Him we abide.\r\nG\r\nLove. \r\n",
+        "unchorded_song": "Love the Lord Your God with all your heart\r\nAnd all your soul and all your mind\r\nand love all mankind, as you would love yourself, and\r\nLove the Lord your God with all your heart\r\nand all your soul and mind and love all mankind.\r\nWe've got Christian lives to live, We've got Jesus' love to give\r\nWe've got nothing to hide because in Him we abide.\r\nLove.",
+        "theme_song_year": "",
+        "number": "2",
+        "copyright": "1987, Songs and Creation, Inc.",
+        "ccli_covered": "0",
+        "key": ""
+    },
+    {
+        "index": "1",
+        "title": "As the Deer",
+        "bible_reference": "Psalm 42",
+        "alternate_songbook": "",
+        "author": "Martin J. Nystrom",
+        "chorded_song": "C        G          Am       C\/E           F          G      C   G\r\nAs the deer panteth for the water, so my soul longeth after You;\r\n C    G           Am                    F        G      C     \r\nYou alone are my heart's desire, and I long to worship You.\r\n\r\n         Am                  F           C\r\nChorus: You alone are my strength, my shield,\r\n            F                Dm      E\r\n        To You alone may my spirit yield.\r\n         C    G           Am    \r\n        You alone are my heart's desire,\r\n                F       G      C\r\n        And I long to worship You.\r\n\r\nYou're my friend and you are my brother even though You are a King.\r\nI love You more than any other, so much more than anything.\r\n\r\nI want You more than gold or silver, only You can satisfy.\r\nYou alone are the real joy-giver and the apple of my eye.",
+        "unchorded_song": "As the deer panteth for the water,\r\nSo my soul longeth after You;\r\nYou alone are my heart's desire,\r\nAnd I long to worship You.\r\n\r\nChorus: You alone are my strength, my shield,\r\n        To You alone may my spirit yield.\r\n        You alone are my heart's desire,\r\n        And I long to worship You.\r\n\r\nYou're my friend and you are my brother\r\nEven though You are a King.\r\nI love You more than any other,\r\nSo much more than anything.\r\n\r\nI want You more than gold or silver,\r\nOnly You can satisfy.\r\nYou alone are the real joy-giver\r\nAnd the apple of my eye.",
+        "theme_song_year": "",
+        "number": "1",
+        "copyright": "1984 Maranatha Praise, Inc.",
+        "ccli_covered": "1",
+        "key": "D"
+    }
+]
