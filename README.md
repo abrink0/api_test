@@ -1,1 +1,2 @@
-#new readme!
+# Testing my api class  
+Works so far
