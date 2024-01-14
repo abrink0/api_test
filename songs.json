@@ -40,5 +40,19 @@
         "ccli_covered": null,
         "key": "",
         "index": 2
+    },
+    {
+        "title": "New song",
+        "bible_reference": "",
+        "alternate_songbook": "",
+        "author": "",
+        "chorded_song": "chords",
+        "unchorded_song": "no chords",
+        "theme_song_year": "",
+        "number": "",
+        "copyright": "",
+        "ccli_covered": null,
+        "key": "",
+        "index": 2
     }
 ]
