@@ -54,5 +54,19 @@
         "ccli_covered": null,
         "key": "",
         "index": 2
+    },
+    {
+        "title": "Adding new song",
+        "bible_reference": "",
+        "alternate_songbook": "",
+        "author": "",
+        "chorded_song": "chords",
+        "unchorded_song": "unchords",
+        "theme_song_year": "",
+        "number": "4",
+        "copyright": "",
+        "ccli_covered": null,
+        "key": "",
+        "index": 3
     }
 ]
