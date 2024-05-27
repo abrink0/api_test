@@ -60,14 +60,14 @@
         "bible_reference": "",
         "alternate_songbook": "",
         "author": "",
-        "chorded_song": "chords",
+        "chorded_song": "This song is not great,\r\nIt should be removed.",
         "unchorded_song": "unchords",
         "theme_song_year": "",
         "number": "4",
         "copyright": "",
         "ccli_covered": null,
         "key": "",
-        "index": 3
+        "index": "3"
     },
     {
         "title": "another song",
